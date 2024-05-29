@@ -104,7 +104,7 @@ public:
         return *this;
     }
     vec4 operator *(float scalarValue) const {
-        return vec4(x - scalarValue, y - scalarValue, z - scalarValue, w - scalarValue);
+        return vec4(x * scalarValue, y * scalarValue, z * scalarValue, w * scalarValue);
     };
     vec4 operator -(const vec4& srcVector) const {
         return vec4(x - srcVector.x, y - srcVector.y, z - srcVector.z, w - srcVector.w);
