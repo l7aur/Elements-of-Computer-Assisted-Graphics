@@ -1,0 +1,45 @@
+﻿  main.cpp
+C:\Users\L7aur\source\repos\EGC_Zbuffer\EGC_Zbuffer\auxiliary.h(148,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\L7aur\source\repos\EGC_Zbuffer\EGC_Zbuffer\auxiliary.h(148,38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\L7aur\source\repos\EGC_Zbuffer\EGC_Zbuffer\auxiliary.h(154,115): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\L7aur\source\repos\EGC_Zbuffer\EGC_Zbuffer\auxiliary.h(154,124): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\L7aur\source\repos\EGC_Zbuffer\EGC_Zbuffer\auxiliary.h(167,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\L7aur\source\repos\EGC_Zbuffer\EGC_Zbuffer\auxiliary.h(167,52): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\L7aur\source\repos\EGC_Zbuffer\EGC_Zbuffer\auxiliary.h(167,86): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\L7aur\source\repos\EGC_Zbuffer\EGC_Zbuffer\auxiliary.h(167,112): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\L7aur\source\repos\EGC_Zbuffer\EGC_Zbuffer\main.cpp(123,120): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\L7aur\source\repos\EGC_Zbuffer\EGC_Zbuffer\main.cpp(123,102): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\L7aur\source\repos\EGC_Zbuffer\EGC_Zbuffer\main.cpp(123,84): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\L7aur\source\repos\EGC_Zbuffer\EGC_Zbuffer\main.cpp(123,56): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\L7aur\source\repos\EGC_Zbuffer\EGC_Zbuffer\main.cpp(207,145): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\L7aur\source\repos\EGC_Zbuffer\EGC_Zbuffer\main.cpp(207,123): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\L7aur\source\repos\EGC_Zbuffer\EGC_Zbuffer\main.cpp(207,101): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\L7aur\source\repos\EGC_Zbuffer\EGC_Zbuffer\main.cpp(207,76): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  rasterization.cpp
+C:\Users\L7aur\source\repos\EGC_Zbuffer\EGC_Zbuffer\rasterization.cpp(12,35): warning C4244: '=': conversion from 'const float' to 'int', possible loss of data
+C:\Users\L7aur\source\repos\EGC_Zbuffer\EGC_Zbuffer\rasterization.cpp(14,35): warning C4244: '=': conversion from 'const float' to 'int', possible loss of data
+C:\Users\L7aur\source\repos\EGC_Zbuffer\EGC_Zbuffer\rasterization.cpp(16,35): warning C4244: '=': conversion from 'const float' to 'int', possible loss of data
+C:\Users\L7aur\source\repos\EGC_Zbuffer\EGC_Zbuffer\rasterization.cpp(18,35): warning C4244: '=': conversion from 'const float' to 'int', possible loss of data
+C:\Users\L7aur\source\repos\EGC_Zbuffer\EGC_Zbuffer\rasterization.cpp(69,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\L7aur\source\repos\EGC_Zbuffer\EGC_Zbuffer\rasterization.cpp(69,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\L7aur\source\repos\EGC_Zbuffer\EGC_Zbuffer\rasterization.cpp(75,81): warning C4244: 'argument': conversion from 'float' to 'Uint8', possible loss of data
+C:\Users\L7aur\source\repos\EGC_Zbuffer\EGC_Zbuffer\rasterization.cpp(75,66): warning C4244: 'argument': conversion from 'float' to 'Uint8', possible loss of data
+C:\Users\L7aur\source\repos\EGC_Zbuffer\EGC_Zbuffer\rasterization.cpp(75,51): warning C4244: 'argument': conversion from 'float' to 'Uint8', possible loss of data
+  Generating Code...
+  EGC_Zbuffer.vcxproj -> C:\Users\L7aur\source\repos\EGC_Zbuffer\x64\Debug\EGC_Zbuffer.exe

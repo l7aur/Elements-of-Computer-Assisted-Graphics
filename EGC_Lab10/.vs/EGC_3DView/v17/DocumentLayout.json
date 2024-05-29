@@ -1,0 +1,161 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\L7aur\\source\\repos\\EGC_Lab10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E568A6BB-C263-429B-AFE2-9CAA9C6F300C}|EGC_3DView\\EGC_3DView.vcxproj|C:\\Users\\L7aur\\source\\repos\\EGC_Lab10\\EGC_3DView\\vec3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E568A6BB-C263-429B-AFE2-9CAA9C6F300C}|EGC_3DView\\EGC_3DView.vcxproj|solutionrelative:EGC_3DView\\vec3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E568A6BB-C263-429B-AFE2-9CAA9C6F300C}|EGC_3DView\\EGC_3DView.vcxproj|C:\\Users\\L7aur\\source\\repos\\EGC_Lab10\\EGC_3DView\\projection.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E568A6BB-C263-429B-AFE2-9CAA9C6F300C}|EGC_3DView\\EGC_3DView.vcxproj|solutionrelative:EGC_3DView\\projection.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E568A6BB-C263-429B-AFE2-9CAA9C6F300C}|EGC_3DView\\EGC_3DView.vcxproj|C:\\Users\\L7aur\\source\\repos\\EGC_Lab10\\EGC_3DView\\transform.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E568A6BB-C263-429B-AFE2-9CAA9C6F300C}|EGC_3DView\\EGC_3DView.vcxproj|solutionrelative:EGC_3DView\\transform.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E568A6BB-C263-429B-AFE2-9CAA9C6F300C}|EGC_3DView\\EGC_3DView.vcxproj|C:\\Users\\L7aur\\source\\repos\\EGC_Lab10\\EGC_3DView\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E568A6BB-C263-429B-AFE2-9CAA9C6F300C}|EGC_3DView\\EGC_3DView.vcxproj|solutionrelative:EGC_3DView\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E568A6BB-C263-429B-AFE2-9CAA9C6F300C}|EGC_3DView\\EGC_3DView.vcxproj|C:\\Users\\L7aur\\source\\repos\\EGC_Lab10\\EGC_3DView\\projection.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E568A6BB-C263-429B-AFE2-9CAA9C6F300C}|EGC_3DView\\EGC_3DView.vcxproj|solutionrelative:EGC_3DView\\projection.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E568A6BB-C263-429B-AFE2-9CAA9C6F300C}|EGC_3DView\\EGC_3DView.vcxproj|C:\\Users\\L7aur\\source\\repos\\EGC_Lab10\\EGC_3DView\\vec3.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E568A6BB-C263-429B-AFE2-9CAA9C6F300C}|EGC_3DView\\EGC_3DView.vcxproj|solutionrelative:EGC_3DView\\vec3.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E568A6BB-C263-429B-AFE2-9CAA9C6F300C}|EGC_3DView\\EGC_3DView.vcxproj|C:\\Users\\L7aur\\source\\repos\\EGC_Lab10\\EGC_3DView\\camera.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E568A6BB-C263-429B-AFE2-9CAA9C6F300C}|EGC_3DView\\EGC_3DView.vcxproj|solutionrelative:EGC_3DView\\camera.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E568A6BB-C263-429B-AFE2-9CAA9C6F300C}|EGC_3DView\\EGC_3DView.vcxproj|C:\\Users\\L7aur\\source\\repos\\EGC_Lab10\\EGC_3DView\\auxiliary.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E568A6BB-C263-429B-AFE2-9CAA9C6F300C}|EGC_3DView\\EGC_3DView.vcxproj|solutionrelative:EGC_3DView\\auxiliary.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 338,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 349,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "projection.cpp",
+              "DocumentMoniker": "C:\\Users\\L7aur\\source\\repos\\EGC_Lab10\\EGC_3DView\\projection.cpp",
+              "RelativeDocumentMoniker": "EGC_3DView\\projection.cpp",
+              "ToolTip": "C:\\Users\\L7aur\\source\\repos\\EGC_Lab10\\EGC_3DView\\projection.cpp",
+              "RelativeToolTip": "EGC_3DView\\projection.cpp",
+              "ViewState": "AQIAAHYAAAAAAAAAAAAcwI4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-10T05:11:09.511Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "camera.h",
+              "DocumentMoniker": "C:\\Users\\L7aur\\source\\repos\\EGC_Lab10\\EGC_3DView\\camera.h",
+              "RelativeDocumentMoniker": "EGC_3DView\\camera.h",
+              "ToolTip": "C:\\Users\\L7aur\\source\\repos\\EGC_Lab10\\EGC_3DView\\camera.h",
+              "RelativeToolTip": "EGC_3DView\\camera.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-24T07:06:04.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "vec3.h",
+              "DocumentMoniker": "C:\\Users\\L7aur\\source\\repos\\EGC_Lab10\\EGC_3DView\\vec3.h",
+              "RelativeDocumentMoniker": "EGC_3DView\\vec3.h",
+              "ToolTip": "C:\\Users\\L7aur\\source\\repos\\EGC_Lab10\\EGC_3DView\\vec3.h",
+              "RelativeToolTip": "EGC_3DView\\vec3.h",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-24T07:05:24.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "vec3.cpp",
+              "DocumentMoniker": "C:\\Users\\L7aur\\source\\repos\\EGC_Lab10\\EGC_3DView\\vec3.cpp",
+              "RelativeDocumentMoniker": "EGC_3DView\\vec3.cpp",
+              "ToolTip": "C:\\Users\\L7aur\\source\\repos\\EGC_Lab10\\EGC_3DView\\vec3.cpp",
+              "RelativeToolTip": "EGC_3DView\\vec3.cpp",
+              "ViewState": "AQIAABoAAAAAAAAAAAAcwCkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-24T07:05:11.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "auxiliary.h",
+              "DocumentMoniker": "C:\\Users\\L7aur\\source\\repos\\EGC_Lab10\\EGC_3DView\\auxiliary.h",
+              "RelativeDocumentMoniker": "EGC_3DView\\auxiliary.h",
+              "ToolTip": "C:\\Users\\L7aur\\source\\repos\\EGC_Lab10\\EGC_3DView\\auxiliary.h",
+              "RelativeToolTip": "EGC_3DView\\auxiliary.h",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAHoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-24T07:00:01.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "projection.h",
+              "DocumentMoniker": "C:\\Users\\L7aur\\source\\repos\\EGC_Lab10\\EGC_3DView\\projection.h",
+              "RelativeDocumentMoniker": "EGC_3DView\\projection.h",
+              "ToolTip": "C:\\Users\\L7aur\\source\\repos\\EGC_Lab10\\EGC_3DView\\projection.h",
+              "RelativeToolTip": "EGC_3DView\\projection.h",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAAA0AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-23T07:06:07.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "transform.cpp",
+              "DocumentMoniker": "C:\\Users\\L7aur\\source\\repos\\EGC_Lab10\\EGC_3DView\\transform.cpp",
+              "RelativeDocumentMoniker": "EGC_3DView\\transform.cpp",
+              "ToolTip": "C:\\Users\\L7aur\\source\\repos\\EGC_Lab10\\EGC_3DView\\transform.cpp",
+              "RelativeToolTip": "EGC_3DView\\transform.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-11T16:13:07.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\L7aur\\source\\repos\\EGC_Lab10\\EGC_3DView\\main.cpp",
+              "RelativeDocumentMoniker": "EGC_3DView\\main.cpp",
+              "ToolTip": "C:\\Users\\L7aur\\source\\repos\\EGC_Lab10\\EGC_3DView\\main.cpp",
+              "RelativeToolTip": "EGC_3DView\\main.cpp",
+              "ViewState": "AQIAAMAAAAAAAAAAAIAwwMwAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-10T08:08:31.14Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

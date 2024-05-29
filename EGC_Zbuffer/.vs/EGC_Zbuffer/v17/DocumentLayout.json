@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\L7aur\\source\\repos\\EGC_Zbuffer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92EAC46A-4F59-41E2-9CA0-313CC478B34B}|EGC_Zbuffer\\EGC_Zbuffer.vcxproj|C:\\Users\\L7aur\\source\\repos\\EGC_Zbuffer\\EGC_Zbuffer\\vec3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92EAC46A-4F59-41E2-9CA0-313CC478B34B}|EGC_Zbuffer\\EGC_Zbuffer.vcxproj|solutionrelative:EGC_Zbuffer\\vec3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92EAC46A-4F59-41E2-9CA0-313CC478B34B}|EGC_Zbuffer\\EGC_Zbuffer.vcxproj|C:\\Users\\L7aur\\source\\repos\\EGC_Zbuffer\\EGC_Zbuffer\\vec4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92EAC46A-4F59-41E2-9CA0-313CC478B34B}|EGC_Zbuffer\\EGC_Zbuffer.vcxproj|solutionrelative:EGC_Zbuffer\\vec4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92EAC46A-4F59-41E2-9CA0-313CC478B34B}|EGC_Zbuffer\\EGC_Zbuffer.vcxproj|C:\\Users\\L7aur\\source\\repos\\EGC_Zbuffer\\EGC_Zbuffer\\rasterization.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92EAC46A-4F59-41E2-9CA0-313CC478B34B}|EGC_Zbuffer\\EGC_Zbuffer.vcxproj|solutionrelative:EGC_Zbuffer\\rasterization.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92EAC46A-4F59-41E2-9CA0-313CC478B34B}|EGC_Zbuffer\\EGC_Zbuffer.vcxproj|C:\\Users\\L7aur\\source\\repos\\EGC_Zbuffer\\EGC_Zbuffer\\auxiliary.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92EAC46A-4F59-41E2-9CA0-313CC478B34B}|EGC_Zbuffer\\EGC_Zbuffer.vcxproj|solutionrelative:EGC_Zbuffer\\auxiliary.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92EAC46A-4F59-41E2-9CA0-313CC478B34B}|EGC_Zbuffer\\EGC_Zbuffer.vcxproj|C:\\Users\\L7aur\\source\\repos\\EGC_Zbuffer\\EGC_Zbuffer\\rasterization.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92EAC46A-4F59-41E2-9CA0-313CC478B34B}|EGC_Zbuffer\\EGC_Zbuffer.vcxproj|solutionrelative:EGC_Zbuffer\\rasterization.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92EAC46A-4F59-41E2-9CA0-313CC478B34B}|EGC_Zbuffer\\EGC_Zbuffer.vcxproj|C:\\Users\\L7aur\\source\\repos\\EGC_Zbuffer\\EGC_Zbuffer\\projection.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92EAC46A-4F59-41E2-9CA0-313CC478B34B}|EGC_Zbuffer\\EGC_Zbuffer.vcxproj|solutionrelative:EGC_Zbuffer\\projection.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "vec3.cpp",
+              "DocumentMoniker": "C:\\Users\\L7aur\\source\\repos\\EGC_Zbuffer\\EGC_Zbuffer\\vec3.cpp",
+              "RelativeDocumentMoniker": "EGC_Zbuffer\\vec3.cpp",
+              "ToolTip": "C:\\Users\\L7aur\\source\\repos\\EGC_Zbuffer\\EGC_Zbuffer\\vec3.cpp",
+              "RelativeToolTip": "EGC_Zbuffer\\vec3.cpp",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-24T09:51:26.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "vec4.cpp",
+              "DocumentMoniker": "C:\\Users\\L7aur\\source\\repos\\EGC_Zbuffer\\EGC_Zbuffer\\vec4.cpp",
+              "RelativeDocumentMoniker": "EGC_Zbuffer\\vec4.cpp",
+              "ToolTip": "C:\\Users\\L7aur\\source\\repos\\EGC_Zbuffer\\EGC_Zbuffer\\vec4.cpp",
+              "RelativeToolTip": "EGC_Zbuffer\\vec4.cpp",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-24T09:51:18.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "rasterization.h",
+              "DocumentMoniker": "C:\\Users\\L7aur\\source\\repos\\EGC_Zbuffer\\EGC_Zbuffer\\rasterization.h",
+              "RelativeDocumentMoniker": "EGC_Zbuffer\\rasterization.h",
+              "ToolTip": "C:\\Users\\L7aur\\source\\repos\\EGC_Zbuffer\\EGC_Zbuffer\\rasterization.h",
+              "RelativeToolTip": "EGC_Zbuffer\\rasterization.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-24T06:32:03.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "auxiliary.h",
+              "DocumentMoniker": "C:\\Users\\L7aur\\source\\repos\\EGC_Zbuffer\\EGC_Zbuffer\\auxiliary.h",
+              "RelativeDocumentMoniker": "EGC_Zbuffer\\auxiliary.h",
+              "ToolTip": "C:\\Users\\L7aur\\source\\repos\\EGC_Zbuffer\\EGC_Zbuffer\\auxiliary.h",
+              "RelativeToolTip": "EGC_Zbuffer\\auxiliary.h",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAAwI0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-24T08:27:36.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "projection.cpp",
+              "DocumentMoniker": "C:\\Users\\L7aur\\source\\repos\\EGC_Zbuffer\\EGC_Zbuffer\\projection.cpp",
+              "RelativeDocumentMoniker": "EGC_Zbuffer\\projection.cpp",
+              "ToolTip": "C:\\Users\\L7aur\\source\\repos\\EGC_Zbuffer\\EGC_Zbuffer\\projection.cpp",
+              "RelativeToolTip": "EGC_Zbuffer\\projection.cpp",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAG8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-24T07:15:00.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "rasterization.cpp",
+              "DocumentMoniker": "C:\\Users\\L7aur\\source\\repos\\EGC_Zbuffer\\EGC_Zbuffer\\rasterization.cpp",
+              "RelativeDocumentMoniker": "EGC_Zbuffer\\rasterization.cpp",
+              "ToolTip": "C:\\Users\\L7aur\\source\\repos\\EGC_Zbuffer\\EGC_Zbuffer\\rasterization.cpp",
+              "RelativeToolTip": "EGC_Zbuffer\\rasterization.cpp",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAC4AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-24T05:10:51.202Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

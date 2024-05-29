@@ -1,0 +1,6 @@
+﻿  clip.cpp
+C:\Users\L7aur\source\repos\EGC_Lab8\EGC_CBclip\clip.cpp(13,19): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\L7aur\source\repos\EGC_Lab8\EGC_CBclip\clip.cpp(14,19): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\L7aur\source\repos\EGC_Lab8\EGC_CBclip\clip.cpp(15,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\L7aur\source\repos\EGC_Lab8\EGC_CBclip\clip.cpp(15,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  EGC_CBclip.vcxproj -> C:\Users\L7aur\source\repos\EGC_Lab8\x64\Debug\EGC_CBclip.exe

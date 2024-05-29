@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\L7aur\\source\\repos\\EGC_Lab9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{842E4847-F111-490E-9BF7-8FDC9A61EE51}|EGC_Bresenham\\EGC_Bresenham.vcxproj|C:\\Users\\L7aur\\source\\repos\\EGC_Lab9\\EGC_Bresenham\\bresenham.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{842E4847-F111-490E-9BF7-8FDC9A61EE51}|EGC_Bresenham\\EGC_Bresenham.vcxproj|solutionrelative:EGC_Bresenham\\bresenham.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{842E4847-F111-490E-9BF7-8FDC9A61EE51}|EGC_Bresenham\\EGC_Bresenham.vcxproj|C:\\Users\\L7aur\\source\\repos\\EGC_Lab9\\EGC_Bresenham\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{842E4847-F111-490E-9BF7-8FDC9A61EE51}|EGC_Bresenham\\EGC_Bresenham.vcxproj|solutionrelative:EGC_Bresenham\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\L7aur\\source\\repos\\EGC_Lab9\\EGC_Bresenham\\main.cpp",
+              "RelativeDocumentMoniker": "EGC_Bresenham\\main.cpp",
+              "ToolTip": "C:\\Users\\L7aur\\source\\repos\\EGC_Lab9\\EGC_Bresenham\\main.cpp",
+              "RelativeToolTip": "EGC_Bresenham\\main.cpp",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-19T06:49:21.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "bresenham.cpp",
+              "DocumentMoniker": "C:\\Users\\L7aur\\source\\repos\\EGC_Lab9\\EGC_Bresenham\\bresenham.cpp",
+              "RelativeDocumentMoniker": "EGC_Bresenham\\bresenham.cpp",
+              "ToolTip": "C:\\Users\\L7aur\\source\\repos\\EGC_Lab9\\EGC_Bresenham\\bresenham.cpp",
+              "RelativeToolTip": "EGC_Bresenham\\bresenham.cpp",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAuwIkAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-18T06:33:01.273Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+﻿  projection.cpp
+C:\Users\L7aur\source\repos\EGC_Lab10\EGC_3DView\projection.cpp(11,29): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\L7aur\source\repos\EGC_Lab10\EGC_3DView\projection.cpp(11,29): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\L7aur\source\repos\EGC_Lab10\EGC_3DView\projection.cpp(11,53): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\L7aur\source\repos\EGC_Lab10\EGC_3DView\projection.cpp(11,53): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\L7aur\source\repos\EGC_Lab10\EGC_3DView\projection.cpp(15,60): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\L7aur\source\repos\EGC_Lab10\EGC_3DView\projection.cpp(15,60): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\L7aur\source\repos\EGC_Lab10\EGC_3DView\projection.cpp(15,68): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\L7aur\source\repos\EGC_Lab10\EGC_3DView\projection.cpp(15,68): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\L7aur\source\repos\EGC_Lab10\EGC_3DView\projection.cpp(54,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\L7aur\source\repos\EGC_Lab10\EGC_3DView\projection.cpp(74,23): warning C4804: '<=': unsafe use of type 'bool' in operation
+C:\Users\L7aur\source\repos\EGC_Lab10\EGC_3DView\projection.cpp(76,23): warning C4804: '<=': unsafe use of type 'bool' in operation
+C:\Users\L7aur\source\repos\EGC_Lab10\EGC_3DView\projection.cpp(78,23): warning C4804: '<=': unsafe use of type 'bool' in operation
+  EGC_3DView.vcxproj -> C:\Users\L7aur\source\repos\EGC_Lab10\x64\Debug\EGC_3DView.exe

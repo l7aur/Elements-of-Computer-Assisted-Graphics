@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\L7aur\source\repos\Project3\Project3\main.cpp(21,5): warning C4102: 'std': unreferenced label
+  testMatrix.cpp
+C:\Users\L7aur\source\repos\Project3\Project3\testMatrix.cpp(185,177): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Generating Code...
+  Project3.vcxproj -> C:\Users\L7aur\source\repos\Project3\x64\Debug\Project3.exe

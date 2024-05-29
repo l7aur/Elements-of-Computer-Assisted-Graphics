@@ -1,0 +1,14 @@
+﻿  testTransform.cpp
+C:\Users\L7aur\source\repos\Project4\Project4\transform.h(37,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'testTransform.cpp')
+  
+C:\Users\L7aur\source\repos\Project4\Project4\transform.h(62,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'testTransform.cpp')
+  
+C:\Users\L7aur\source\repos\Project4\Project4\transform.h(67,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'testTransform.cpp')
+  
+C:\Users\L7aur\source\repos\Project4\Project4\transform.h(72,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'testTransform.cpp')
+  
+  Project4.vcxproj -> C:\Users\L7aur\source\repos\Project4\x64\Debug\Project4.exe

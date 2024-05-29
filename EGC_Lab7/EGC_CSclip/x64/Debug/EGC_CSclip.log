@@ -1,0 +1,20 @@
+﻿  clip.cpp
+C:\Users\L7aur\source\repos\EGC_Lab7\EGC_CSclip\clip.cpp(7,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\L7aur\source\repos\EGC_Lab7\EGC_CSclip\clip.cpp(8,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\L7aur\source\repos\EGC_Lab7\EGC_CSclip\clip.cpp(9,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\L7aur\source\repos\EGC_Lab7\EGC_CSclip\clip.cpp(10,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\L7aur\source\repos\EGC_Lab7\EGC_CSclip\clip.cpp(11,9): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+C:\Users\L7aur\source\repos\EGC_Lab7\EGC_CSclip\clip.cpp(12,9): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+C:\Users\L7aur\source\repos\EGC_Lab7\EGC_CSclip\clip.cpp(61,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\L7aur\source\repos\EGC_Lab7\EGC_CSclip\clip.cpp(62,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\L7aur\source\repos\EGC_Lab7\EGC_CSclip\clip.cpp(63,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\L7aur\source\repos\EGC_Lab7\EGC_CSclip\clip.cpp(64,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\L7aur\source\repos\EGC_Lab7\EGC_CSclip\clip.cpp(80,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\L7aur\source\repos\EGC_Lab7\EGC_CSclip\clip.cpp(80,21): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\L7aur\source\repos\EGC_Lab7\EGC_CSclip\clip.cpp(83,15): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\L7aur\source\repos\EGC_Lab7\EGC_CSclip\clip.cpp(88,15): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\L7aur\source\repos\EGC_Lab7\EGC_CSclip\clip.cpp(93,15): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\L7aur\source\repos\EGC_Lab7\EGC_CSclip\clip.cpp(98,15): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\L7aur\source\repos\EGC_Lab7\EGC_CSclip\clip.cpp(101,12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\L7aur\source\repos\EGC_Lab7\EGC_CSclip\clip.cpp(101,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  EGC_CSclip.vcxproj -> C:\Users\L7aur\source\repos\EGC_Lab7\x64\Debug\EGC_CSclip.exe

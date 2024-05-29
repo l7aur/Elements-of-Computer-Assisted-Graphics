@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\L7aur\\source\\repos\\EGC_Lab7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{443FF3F9-BBF3-4FB2-9AA7-2108430D971F}|EGC_CSclip\\EGC_CSclip.vcxproj|C:\\Users\\L7aur\\source\\repos\\EGC_Lab7\\EGC_CSclip\\vec3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{443FF3F9-BBF3-4FB2-9AA7-2108430D971F}|EGC_CSclip\\EGC_CSclip.vcxproj|solutionrelative:EGC_CSclip\\vec3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{443FF3F9-BBF3-4FB2-9AA7-2108430D971F}|EGC_CSclip\\EGC_CSclip.vcxproj|C:\\Users\\L7aur\\source\\repos\\EGC_Lab7\\EGC_CSclip\\clip.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{443FF3F9-BBF3-4FB2-9AA7-2108430D971F}|EGC_CSclip\\EGC_CSclip.vcxproj|solutionrelative:EGC_CSclip\\clip.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{443FF3F9-BBF3-4FB2-9AA7-2108430D971F}|EGC_CSclip\\EGC_CSclip.vcxproj|C:\\Users\\L7aur\\source\\repos\\EGC_Lab7\\EGC_CSclip\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{443FF3F9-BBF3-4FB2-9AA7-2108430D971F}|EGC_CSclip\\EGC_CSclip.vcxproj|solutionrelative:EGC_CSclip\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{443FF3F9-BBF3-4FB2-9AA7-2108430D971F}|EGC_CSclip\\EGC_CSclip.vcxproj|C:\\Users\\L7aur\\source\\repos\\EGC_Lab7\\EGC_CSclip\\vec4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{443FF3F9-BBF3-4FB2-9AA7-2108430D971F}|EGC_CSclip\\EGC_CSclip.vcxproj|solutionrelative:EGC_CSclip\\vec4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 213,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 133,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clip.cpp",
+              "DocumentMoniker": "C:\\Users\\L7aur\\source\\repos\\EGC_Lab7\\EGC_CSclip\\clip.cpp",
+              "RelativeDocumentMoniker": "EGC_CSclip\\clip.cpp",
+              "ToolTip": "C:\\Users\\L7aur\\source\\repos\\EGC_Lab7\\EGC_CSclip\\clip.cpp",
+              "RelativeToolTip": "EGC_CSclip\\clip.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF0AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-05T18:11:29.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "vec4.cpp",
+              "DocumentMoniker": "C:\\Users\\L7aur\\source\\repos\\EGC_Lab7\\EGC_CSclip\\vec4.cpp",
+              "RelativeDocumentMoniker": "EGC_CSclip\\vec4.cpp",
+              "ToolTip": "C:\\Users\\L7aur\\source\\repos\\EGC_Lab7\\EGC_CSclip\\vec4.cpp",
+              "RelativeToolTip": "EGC_CSclip\\vec4.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-05T05:22:18.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "vec3.cpp",
+              "DocumentMoniker": "C:\\Users\\L7aur\\source\\repos\\EGC_Lab7\\EGC_CSclip\\vec3.cpp",
+              "RelativeDocumentMoniker": "EGC_CSclip\\vec3.cpp",
+              "ToolTip": "C:\\Users\\L7aur\\source\\repos\\EGC_Lab7\\EGC_CSclip\\vec3.cpp",
+              "RelativeToolTip": "EGC_CSclip\\vec3.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-05T05:22:17.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\L7aur\\source\\repos\\EGC_Lab7\\EGC_CSclip\\main.cpp",
+              "RelativeDocumentMoniker": "EGC_CSclip\\main.cpp",
+              "ToolTip": "C:\\Users\\L7aur\\source\\repos\\EGC_Lab7\\EGC_CSclip\\main.cpp",
+              "RelativeToolTip": "EGC_CSclip\\main.cpp",
+              "ViewState": "AQIAAJcAAAAAAAAAAAAowBUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-05T05:22:08.977Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

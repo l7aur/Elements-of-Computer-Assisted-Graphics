@@ -1,0 +1,14 @@
+﻿  main.cpp
+C:\Users\L7aur\source\repos\EGC_Lab5\EGC_Lab5\transform.h(37,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\L7aur\source\repos\EGC_Lab5\EGC_Lab5\transform.h(62,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\L7aur\source\repos\EGC_Lab5\EGC_Lab5\transform.h(67,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\L7aur\source\repos\EGC_Lab5\EGC_Lab5\transform.h(72,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+  EGC_Lab5.vcxproj -> C:\Users\L7aur\source\repos\EGC_Lab5\x64\Debug\EGC_Lab5.exe

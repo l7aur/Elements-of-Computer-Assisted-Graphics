@@ -1,0 +1,3 @@
+﻿  bresenham.cpp
+C:\Users\L7aur\source\repos\EGC_Lab9\EGC_Bresenham\bresenham.cpp(272,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  EGC_Bresenham.vcxproj -> C:\Users\L7aur\source\repos\EGC_Lab9\x64\Debug\EGC_Bresenham.exe

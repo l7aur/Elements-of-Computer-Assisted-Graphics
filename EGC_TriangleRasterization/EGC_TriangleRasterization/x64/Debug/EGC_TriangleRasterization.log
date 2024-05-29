@@ -1,0 +1,6 @@
+﻿  vec4.cpp
+C:\Users\L7aur\source\repos\EGC_TriangleRasterization\EGC_TriangleRasterization\vec4.cpp(43,14): warning C4244: '/=': conversion from 'double' to 'float', possible loss of data
+C:\Users\L7aur\source\repos\EGC_TriangleRasterization\EGC_TriangleRasterization\vec4.cpp(44,14): warning C4244: '/=': conversion from 'double' to 'float', possible loss of data
+C:\Users\L7aur\source\repos\EGC_TriangleRasterization\EGC_TriangleRasterization\vec4.cpp(45,14): warning C4244: '/=': conversion from 'double' to 'float', possible loss of data
+C:\Users\L7aur\source\repos\EGC_TriangleRasterization\EGC_TriangleRasterization\vec4.cpp(46,14): warning C4244: '/=': conversion from 'double' to 'float', possible loss of data
+  EGC_TriangleRasterization.vcxproj -> C:\Users\L7aur\source\repos\EGC_TriangleRasterization\x64\Debug\EGC_TriangleRasterization.exe

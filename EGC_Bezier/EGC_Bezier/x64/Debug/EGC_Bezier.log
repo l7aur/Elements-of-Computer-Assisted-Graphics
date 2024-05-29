@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\L7aur\source\repos\EGC_Bezier\EGC_Bezier\main.cpp(79,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\L7aur\source\repos\EGC_Bezier\EGC_Bezier\main.cpp(79,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\L7aur\source\repos\EGC_Bezier\EGC_Bezier\main.cpp(127,49): warning C4305: 'argument': truncation from 'int' to 'Uint8'
+C:\Users\L7aur\source\repos\EGC_Bezier\EGC_Bezier\main.cpp(127,49): warning C4309: 'argument': truncation of constant value
+  EGC_Bezier.vcxproj -> C:\Users\L7aur\source\repos\EGC_Bezier\x64\Debug\EGC_Bezier.exe

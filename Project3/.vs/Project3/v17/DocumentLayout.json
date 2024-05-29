@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\L7aur\\source\\repos\\Project3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\L7aur\\source\\repos\\Project3\\Project3\\mat3.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Project3\\mat3.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\L7aur\\source\\repos\\Project3\\Project3\\vec3.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Project3\\vec3.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\L7aur\\source\\repos\\Project3\\Project3\\testMatrix.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Project3\\testMatrix.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\L7aur\\source\\repos\\Project3\\Project3\\mat4.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Project3\\mat4.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\L7aur\\source\\repos\\Project3\\Project3\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Project3\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 148,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 407,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "vec3.h",
+              "DocumentMoniker": "C:\\Users\\L7aur\\source\\repos\\Project3\\Project3\\vec3.h",
+              "RelativeDocumentMoniker": "Project3\\vec3.h",
+              "ToolTip": "C:\\Users\\L7aur\\source\\repos\\Project3\\Project3\\vec3.h",
+              "RelativeToolTip": "Project3\\vec3.h",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAAAIcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-14T08:22:19.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "testMatrix.cpp",
+              "DocumentMoniker": "C:\\Users\\L7aur\\source\\repos\\Project3\\Project3\\testMatrix.cpp",
+              "RelativeDocumentMoniker": "Project3\\testMatrix.cpp",
+              "ToolTip": "C:\\Users\\L7aur\\source\\repos\\Project3\\Project3\\testMatrix.cpp",
+              "RelativeToolTip": "Project3\\testMatrix.cpp",
+              "ViewState": "AQIAAJ8AAAAAAAAAAAAAAFoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-14T07:27:24.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "mat3.h",
+              "DocumentMoniker": "C:\\Users\\L7aur\\source\\repos\\Project3\\Project3\\mat3.h",
+              "RelativeDocumentMoniker": "Project3\\mat3.h",
+              "ToolTip": "C:\\Users\\L7aur\\source\\repos\\Project3\\Project3\\mat3.h",
+              "RelativeToolTip": "Project3\\mat3.h",
+              "ViewState": "AQIAAIIAAAAAAAAAAAAQwKIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-14T07:21:35.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "mat4.h",
+              "DocumentMoniker": "C:\\Users\\L7aur\\source\\repos\\Project3\\Project3\\mat4.h",
+              "RelativeDocumentMoniker": "Project3\\mat4.h",
+              "ToolTip": "C:\\Users\\L7aur\\source\\repos\\Project3\\Project3\\mat4.h",
+              "RelativeToolTip": "Project3\\mat4.h",
+              "ViewState": "AQIAAKwAAAAAAAAAAAAQwMwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-14T07:18:46.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\L7aur\\source\\repos\\Project3\\Project3\\main.cpp",
+              "RelativeDocumentMoniker": "Project3\\main.cpp",
+              "ToolTip": "C:\\Users\\L7aur\\source\\repos\\Project3\\Project3\\main.cpp",
+              "RelativeToolTip": "Project3\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-14T07:18:14.79Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

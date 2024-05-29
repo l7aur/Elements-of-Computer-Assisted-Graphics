@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\L7aur\\source\\repos\\EGC_Lab8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F10E46B-684D-4D8F-8A88-4D3B7658B3CF}|EGC_CBclip\\EGC_CBclip.vcxproj|C:\\Users\\L7aur\\source\\repos\\EGC_Lab8\\EGC_CBclip\\vec4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9F10E46B-684D-4D8F-8A88-4D3B7658B3CF}|EGC_CBclip\\EGC_CBclip.vcxproj|solutionrelative:EGC_CBclip\\vec4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F10E46B-684D-4D8F-8A88-4D3B7658B3CF}|EGC_CBclip\\EGC_CBclip.vcxproj|C:\\Users\\L7aur\\source\\repos\\EGC_Lab8\\EGC_CBclip\\vec3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9F10E46B-684D-4D8F-8A88-4D3B7658B3CF}|EGC_CBclip\\EGC_CBclip.vcxproj|solutionrelative:EGC_CBclip\\vec3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F10E46B-684D-4D8F-8A88-4D3B7658B3CF}|EGC_CBclip\\EGC_CBclip.vcxproj|C:\\Users\\L7aur\\source\\repos\\EGC_Lab8\\EGC_CBclip\\clip.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9F10E46B-684D-4D8F-8A88-4D3B7658B3CF}|EGC_CBclip\\EGC_CBclip.vcxproj|solutionrelative:EGC_CBclip\\clip.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "vec4.cpp",
+              "DocumentMoniker": "C:\\Users\\L7aur\\source\\repos\\EGC_Lab8\\EGC_CBclip\\vec4.cpp",
+              "RelativeDocumentMoniker": "EGC_CBclip\\vec4.cpp",
+              "ToolTip": "C:\\Users\\L7aur\\source\\repos\\EGC_Lab8\\EGC_CBclip\\vec4.cpp",
+              "RelativeToolTip": "EGC_CBclip\\vec4.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-10T05:34:12.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "vec3.cpp",
+              "DocumentMoniker": "C:\\Users\\L7aur\\source\\repos\\EGC_Lab8\\EGC_CBclip\\vec3.cpp",
+              "RelativeDocumentMoniker": "EGC_CBclip\\vec3.cpp",
+              "ToolTip": "C:\\Users\\L7aur\\source\\repos\\EGC_Lab8\\EGC_CBclip\\vec3.cpp",
+              "RelativeToolTip": "EGC_CBclip\\vec3.cpp",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAUwDIAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-10T05:32:46.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "clip.cpp",
+              "DocumentMoniker": "C:\\Users\\L7aur\\source\\repos\\EGC_Lab8\\EGC_CBclip\\clip.cpp",
+              "RelativeDocumentMoniker": "EGC_CBclip\\clip.cpp",
+              "ToolTip": "C:\\Users\\L7aur\\source\\repos\\EGC_Lab8\\EGC_CBclip\\clip.cpp",
+              "RelativeToolTip": "EGC_CBclip\\clip.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-12T07:56:18.211Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
