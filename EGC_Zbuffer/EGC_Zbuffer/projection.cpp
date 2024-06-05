@@ -94,8 +94,7 @@ namespace egc {
         vec3 v1 = vec3(triangle.at(1).x, triangle.at(1).y, triangle.at(1).z);
         vec3 v2 = vec3(triangle.at(2).x, triangle.at(2).y, triangle.at(2).z);
 
-        vec3 n = crossProduct(v1 - v0, v2 - v0).normalize();
-        return n;
+        return crossProduct(v1 - v0, v2 - v0).normalize();
     }
 
     egc::vec4 findCenterPointOfTriangle(const std::vector<egc::vec4>& triangle)
@@ -114,14 +113,13 @@ namespace egc {
     void displayNormalVectors(egc::vec3& normalVector, egc::vec4& triangleCenter, SDL_Renderer* renderer, egc::mat4 viewTransformMatrix, egc::mat4 perspectiveMatrix)
     {
         // Calculate the end point of the normal vector in world coordinates
-        vec3 endPointWorld = vec3(triangleCenter.x, triangleCenter.y, triangleCenter.z) + normalVector * 0.5;
+        vec3 endPointWorld = vec3(triangleCenter.x, triangleCenter.y, triangleCenter.z) + normalVector * 0.3; //give the normals some height
         vec4 endPoint(endPointWorld.x, endPointWorld.y, endPointWorld.z, 1.0f);
 
         // Transform the center of the triangle
         vec4 transformedCenter = perspectiveMatrix * triangleCenter;
         perspectiveDivide(transformedCenter);
         transformedCenter = viewTransformMatrix * transformedCenter;
-
 
         // Transform the end point of the normal vector
         vec4 transformedEndPoint = perspectiveMatrix * endPoint;
@@ -132,7 +130,7 @@ namespace egc {
         SDL_SetRenderDrawColor(renderer, 255, 0, 0, 255);
 
         // Draw the line from the transformed center to the transformed end point of the normal vector
-        SDL_RenderDrawLine(renderer, static_cast<int>(transformedCenter.x), static_cast<int>(transformedCenter.y), static_cast<int>(transformedEndPoint.x), static_cast<int>(transformedEndPoint.y));
+        SDL_RenderDrawLine(renderer, transformedCenter.x, transformedCenter.y, transformedEndPoint.x, transformedEndPoint.y);
     }
 
 }
