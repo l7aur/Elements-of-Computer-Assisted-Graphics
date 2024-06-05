@@ -108,11 +108,7 @@ namespace egc {
 
     bool isTriangleVisible(const std::vector<egc::vec4>& triangle, const egc::vec3& normalVector)
     {
-        vec3 secondVector = findNormalVectorToTriangle(triangle);
-        float teta = acos(dotProduct(normalVector, secondVector));
-        if (teta > cos(M_PI))
-            return true;
-        return false;
+        return dotProduct(normalVector, triangle.at(0)) < 0.0f;
     }
 
     void displayNormalVectors(egc::vec3& normalVector, egc::vec4& triangleCenter, SDL_Renderer* renderer, egc::mat4 viewTransformMatrix, egc::mat4 perspectiveMatrix)
