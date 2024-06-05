@@ -20,26 +20,6 @@ namespace egc {
 		return BoundingBox(x_min, x_max, y_min, y_max);
 	}
 
-	float f_bc(const std::vector<egc::vec4>& triangleVertices, float x, float y) {
-		vec4 B = triangleVertices.at(1);
-		vec4 C = triangleVertices.at(2);
-		float a = B.y - C.y;
-		float b = C.x - B.x;
-		float c = B.x * C.y - C.x * B.y;
-		return x * a + y * b + c;
-	}
-
-	float f_ca(const std::vector<egc::vec4>& triangleVertices, float x, float y) {
-		vec4 C = triangleVertices.at(2);
-		vec4 A = triangleVertices.at(0);
-		float a = C.y - A.y;
-		float b = A.x - C.x;
-		float c = C.x * A.y - A.x * C.y;
-		return x * a + y * b + c;
-	}
-
-	
-
 	float lineFunction(egc::vec2 point1, egc::vec2 point2, egc::vec2 pixel)
 	{
 		float a = point1.y - point2.y;
