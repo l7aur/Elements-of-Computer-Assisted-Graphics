@@ -18,9 +18,6 @@ void drawParametricLinePoints(vec2 p0, vec2 p1, SDL_Renderer* renderer) {
 	}
 }
 
-//Return the value of B(t), where t is in [0,1]. The value of B(t) is computed by taking into account all the 
-//controll points contained within the input vector
-
 int combNumber(int n, int i) {
 	int rez = 1;
 	if (n < i)
@@ -41,8 +38,10 @@ float pow(float b, int e) {
 	return r;
 }
 
+//Return the value of B(t), where t is in [0,1]. The value of B(t) is computed by taking into account all the 
+//controll points contained within the input vector
 vec2 getBezierPoint(std::vector<vec2> controlPoints, float t) {
-	vec2 point(0.0,0.0);
+	vec2 point(0.0, 0.0);
 	int n = controlPoints.size() - 1;
 	for (int i = 0; i <= n; i++) {
 		point += controlPoints.at(i) * combNumber(n, i) * pow(1 - t, n - i) * pow(t, i);
