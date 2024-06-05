@@ -48,8 +48,7 @@ namespace egc {
 				alpha = beta = gamma = 0.0f;
 				computeAlphaBetaGamma(triangleVertices, vec2(i, j), alpha, beta, gamma);
 				if ((0 <= alpha && alpha <= 1) && (0 <= beta && beta <= 1) && (0 <= gamma && gamma <= 1)) {
-					float pixel_depth = triangleVertices.at(0).z * alpha + triangleVertices.at(1).z * beta + triangleVertices.at(2).z *gamma;
-					
+					float pixel_depth = triangleVertices.at(0).z * alpha + triangleVertices.at(1).z * beta + triangleVertices.at(2).z * gamma;
 					if (depthBuffer[i][j] < pixel_depth) {
 						vec4 final_color = triangleColors.at(0) * alpha + triangleColors.at(1) * beta + triangleColors.at(2) * gamma;
 						SDL_SetRenderDrawColor(renderer, final_color.r, final_color.g, final_color.b, SDL_ALPHA_OPAQUE);
