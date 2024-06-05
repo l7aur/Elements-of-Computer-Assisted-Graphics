@@ -1,5 +1,4 @@
 #include "Bezier.h"
-#include "math.h"
 #include <vector>
 
 //Return the value of P(t), where t is in [0,1]
@@ -31,6 +30,15 @@ int combNumber(int n, int i) {
 	for (int k = 2; k <= i; k++)
 		rez /= k;
 	return rez;
+}
+
+float pow(float b, int e) {
+	float r = 1.0f;
+	while (e) {
+		r *= b;
+		e--;
+	}
+	return r;
 }
 
 vec2 getBezierPoint(std::vector<vec2> controlPoints, float t) {
